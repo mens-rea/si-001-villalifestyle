@@ -1,0 +1,24 @@
+[11-May-2016 22:41:28 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[11-May-2016 22:42:11 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[11-May-2016 22:57:12 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 01:02:09 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 01:30:32 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 01:39:54 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 01:48:54 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 02:40:12 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 04:54:04 CST6CDT] PHP Parse error:  syntax error, unexpected ''f' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/config.php on line 504
+[12-May-2016 04:58:49 CST6CDT] PHP Warning:  Unterminated comment starting line 159 in /home/villalif/public_html/account/application/config/config.php on line 159
+[12-May-2016 04:58:49 CST6CDT] PHP Notice:  Undefined index: log_path in /home/villalif/public_html/account/system/core/Log.php on line 118
+[12-May-2016 04:58:49 CST6CDT] PHP Warning:  mkdir(): Invalid path in /home/villalif/public_html/account/system/core/Log.php on line 122
+[12-May-2016 04:58:49 CST6CDT] PHP Notice:  Undefined index: log_threshold in /home/villalif/public_html/account/system/core/Log.php on line 129
+[12-May-2016 04:58:55 CST6CDT] PHP Warning:  Unterminated comment starting line 159 in /home/villalif/public_html/account/application/config/config.php on line 159
+[12-May-2016 04:58:55 CST6CDT] PHP Notice:  Undefined index: log_path in /home/villalif/public_html/account/system/core/Log.php on line 118
+[12-May-2016 04:58:55 CST6CDT] PHP Warning:  mkdir(): Invalid path in /home/villalif/public_html/account/system/core/Log.php on line 122
+[12-May-2016 04:58:55 CST6CDT] PHP Notice:  Undefined index: log_threshold in /home/villalif/public_html/account/system/core/Log.php on line 129
+[14-May-2016 06:10:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/villalif/public_html/account/application/models/Sales_model.php on line 43
+[14-May-2016 06:57:10 CST6CDT] PHP Warning:  Unterminated comment starting line 4 in /home/villalif/public_html/account/application/config/routes.php on line 4
+[11-Jun-2016 05:58:00 CST6CDT] PHP Parse error:  syntax error, unexpected ''admin/remove-' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/config/routes.php on line 81
+[19-Jun-2016 19:06:41 CST6CDT] PHP Parse error:  syntax error, unexpected ''dt_id' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/villalif/public_html/account/application/controllers/Tenant.php on line 258
+[20-Jun-2016 07:42:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/villalif/public_html/account/application/controllers/Tenant.php on line 50
+[20-Jun-2016 07:43:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/villalif/public_html/account/application/controllers/Tenant.php on line 90
+[20-Jun-2016 07:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/villalif/public_html/account/application/controllers/Tenant.php on line 90

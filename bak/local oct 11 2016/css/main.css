@@ -1,0 +1,39 @@
+h3 {
+    text-align: center;
+ 
+ 
+}
+ 
+img {
+    height: 220px;
+}
+ 
+a {
+    display: block;
+}
+ 
+.bxslider {
+    margin: 0;
+}
+ 
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    background: red;
+    padding: 10px;
+    background-color: #449d44;
+    color: #fff;
+}
+ 
+.btn:hover {
+    background-color: #378137;
+}
+ 
+.item-container {
+    text-align: center;
+}
+ 
+.price {
+    color: #191919;
+}

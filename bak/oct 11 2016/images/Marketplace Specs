@@ -1,0 +1,112 @@
+Marketplace Specs
+
+Fonts Used: Proxima Nova, Georgia
+
+Header Bar color: #000000
+
+Navigation (Women, Men, Kids, Search) fonts: Proxima Nova Regular (black)
+"My Cart" fonts: Proxima Nova SemiBold (Black)
+
+Slider "shop now" fonts: Proxima Nova Extra Bold (white)
+
+"About Tens Marketplace" fonts: Proxima Nova Semibold (black)
+About content fonts: Georgia Regular
+
+Dark color blue: #0071BC
+Light color blue: #56A6F4
+
+"All Items" & "All Stores" font: Proxima Noval SemiBold (black)
+"All Items" & "All Stores" container color: #DDDDDD
+
+Posts border color: #DDDDDD
+
+-----------------------------------------------------------
+
+Filter for Stores specs: 
+	> "Search Store" font: Uppercase Proxima Nova Regular (black)
+	> "Search Store" container: #F9F7F7
+
+	>"SALE" & "NEW" fonts: Uppercase Proxima Nova Regular (black)
+	>"SALE" & "NEW" container: #EDEDED
+	> Divider color: #B7B7B7
+
+	> "Women" & "Men" & "Kids" fonts: Uppercase Proxima Nova Regular (black)
+	> "Women" & "Men" & "Kids" container: #EDEDED
+	> Divider color: #B7B7B7
+
+	> "Sort By" font: Uppercase Proxima Nova Regular (black)
+	> Filter border color: #DDDDDD 
+
+--------------------------------------------------------
+
+About the shop specs:
+
+About the shop navigation underline hover color: #0071bc
+
+Content container color: F4F2F2
+"SHOP" & "ABOUT THE SHOP" & "FAQ" fonts: Proxima Nova Regular (black)
+
+Sidebar ADD TO CART container: #FFFFFF
+Sidebar ADD TO CART borders and dividers color: #DDDDDD
+Sidebar ADD TO CART:
+	>Price font: Proxima Nova Bold (#0071BC)
+	>Items available font: Proxima Nova Light (black)
+	> "Add to cart" font: Proxima Nova Bold (white)
+	> Add to cart container color: #0071BC
+
+Details, Shopping, Contact font: Proxima Nova Regular (black)
+Details, Shopping, Contact container: #FFFFFF 
+
+"More items from this shop" font: Uppercase Proxima Nova Regular (black)
+More items from this shop container: Border- #DDDDDD Fill color- #FAF8F6
+"Visit the shop" font: Proxima Nova Regular (#919191)
+"Visit the shop" container: Border- #DDDDDD Fill color- #FFFFFF
+
+"YOU MIGHT ALSO LIKE" font: Uppercase Proxima Nova Regular (black)
+Product title: Proxima Nova Regular (black)
+Store name: Proxima Nova Light (black)
+Price: Proxima Nova Bold (#0071bc)
+
+----------------------------------------------------
+
+Sub Navigation (from Women, Men, Kids) container: #f7f7f7
+"Popular shops" & Collections font: Georgia Bold Italic (black)
+"Bench,Penshoppe " font: Georgia Italic (#848484)
+Divider color: #848484
+
+----------------------------------------------------
+
+Detailed Filter specs:
+	> "Search Item" font: Uppercase Proxima Nova Regular (black)
+	> "Search Item" container: #F9F7F7
+
+	> Filter categories font color (Women, Jumpsuits, Filter by...): #333333
+	> Women Hover color: #b2b1b1
+	> Clothing, ,Shoes, Bags, Accessories, Stores, Color, Price Range container color: #ededed
+	> Sub sub categories (Dresses, Pants....) container: #F9F7F7
+
+---------------------------------------------------
+
+View the shopping cart specs:
+
+"2 items in your shopping cart" font: Proxima Nova Bold and light (black)
+"items" container box: #DDDDDD
+border lines: #DDDDDD
+Quantity box: #f4f7f7
+"remove" font: Proxima Nova light (#515151)
+
+"MESSAGE FOR THE SHOPS" font: Proxima Nova Regular (black)
+"Message for the shops" text box: border-#DDDDDD 
+
+------------------------------------------------
+
+Sign in & create account specs:
+ Facebook button : #3b5998
+ Sign in with facebook font: Proxima Nova Regular (white)
+
+ Full name, Email, Password text box: #faf8f6
+ Full name, email, password font: Proxima Nova Regular (#878787)
+
+ Sign up button : #0071bc
+ "Sign up" font: Proxima Nova Bold (white)
+"Already have an account" font: Proxima Nova Light (#878787)

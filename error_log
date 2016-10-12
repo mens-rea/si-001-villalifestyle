@@ -1,0 +1,1 @@
+[10-Oct-2015 17:51:58 America/Denver] PHP Fatal error:  Call to a member function result_array() on a non-object in /home1/potatoco/public_html/staging/ep-002-marketplace/application/views/home.php on line 33

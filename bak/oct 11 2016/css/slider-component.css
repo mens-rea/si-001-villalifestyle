@@ -1,0 +1,155 @@
+.cbp-hrmenu {
+	/*width: 100%;
+	margin-top: 2em;*/
+	font-size: 14px !important;
+}
+
+/* general ul style */
+.cbp-hrmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+/* first level ul style */
+.cbp-hrmenu > ul,
+.cbp-hrmenu .cbp-hrsub-inner {
+	width: 90%;
+	max-width: 70em;
+}
+
+.cbp-hrmenu > ul > li {
+	display: inline-block;
+}
+
+.cbp-hrmenu > ul > li > a {
+	font-weight: 700;
+	padding: 3px;
+	color: black;
+	display: inline-block;
+}
+
+.cbp-hrmenu > ul > li > a:hover {
+	color: gray;
+	text-decoration: none;
+}
+
+.cbp-hrmenu > ul > li.cbp-hropen a,
+.cbp-hrmenu > ul > li.cbp-hropen > a:hover {
+	color: #858585;
+	background: #F7F7F7;
+}
+
+.hrmenu-lists li a{
+	font-family: "Georgia";
+	font-size: 110%;
+	font-style: italic;
+}
+
+/* sub-menu */
+.cbp-hrmenu .cbp-hrsub {
+	display: none;
+	position: absolute;
+	background: #F7F7F7;
+	width: 100%;
+	left: 0;
+}
+
+.cbp-hropen .cbp-hrsub {
+	display: block;
+	height: auto;
+	padding-bottom: 3em;
+	margin-top: 25px;
+	width: 100%;
+	z-index: 2;
+}
+
+.cbp-hrmenu .cbp-hrsub-inner > div {
+	width: 100%;
+	height: auto;
+	padding-left: 20%;
+}
+
+.cbp-hrmenu .cbp-hrsub-inner:before,
+.cbp-hrmenu .cbp-hrsub-inner:after {
+	content: " ";
+	display: table;
+}
+
+.cbp-hrmenu .cbp-hrsub-inner:after {
+	clear: both;
+}
+
+.cbp-hrmenu .cbp-hrsub-inner > div a {
+	line-height: 2em;
+}
+
+.cbp-hrsub h4 {
+	color: black;
+	padding: 1.5em 0 1.5em;
+	margin: 0;
+	font-size: 120%;
+	font-family: "Georgia";
+	font-style: italic;
+	font-weight: bold;
+}
+
+/* Examples for media queries */
+
+@media screen and (max-width: 52.75em) { 
+
+	.cbp-hrmenu {
+		font-size: 80%;
+	}
+
+}
+
+@media screen and (max-width: 43em) { 
+
+	.cbp-hrmenu {
+		font-size: 120%;
+		border: none;
+	}
+
+	.cbp-hrmenu > ul,
+	.cbp-hrmenu .cbp-hrsub-inner {
+		width: 100%;
+		padding: 0;
+	}
+
+	.cbp-hrmenu .cbp-hrsub-inner {
+		padding: 0 2em;
+		font-size: 75%;
+	}
+
+	.cbp-hrmenu > ul > li {
+		display: block;
+	}
+
+	.cbp-hrmenu > ul > li > a { 
+		display: block;
+		padding: 1em 3em;
+		font-family: "Proxima-Nova-Regular";
+		color: black !important;
+	}
+
+	.cbp-hrmenu .cbp-hrsub { 
+		position: relative;
+	}
+
+	.cbp-hrsub h4 {
+		padding-top: 0.6em;
+	}
+
+}
+
+@media screen and (max-width: 36em) { 
+	.cbp-hrmenu .cbp-hrsub-inner > div {
+		width: 100%;
+		float: none;
+		padding: 0 2em;
+	}
+}
+
+
+
